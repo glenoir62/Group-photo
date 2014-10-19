@@ -3,7 +3,7 @@ Group-photo
 
 ![Screenshot](https://raw.githubusercontent.com/glenoir62/Group-photo/master/screenshot.png?raw=true)
 
-Group-photo lists the people of Liferay portal.
+Trombinoscope for Liferay.
 
 Ability to search on :
 
