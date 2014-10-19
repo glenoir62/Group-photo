@@ -1,7 +1,7 @@
 Group-photo
 ===========
 
-![Screenshot](https://github.com/glenoir62/Avalon-announcements/blob/master/readme.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/glenoir62/Group-photo/master/screenshot.png?raw=true)
 
 Group-photo lists the people of Liferay portal.
 
