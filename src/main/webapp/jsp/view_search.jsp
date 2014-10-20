@@ -55,7 +55,7 @@ A.all('#<portlet:namespace/>users .user-photo-group').on('click', function(event
 	        {
      			dialog: {
 					destroyOnHide: true,
-					width: 600,
+					width: 650,
 					height: 450
 				},
 				title: Liferay.Language.get("User"),
