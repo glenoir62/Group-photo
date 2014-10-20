@@ -7,7 +7,6 @@
 	<portlet:param name="searchView" value="true" />
 </portlet:renderURL>
 
-<a href="${openPortletURL}">${openPortletURL}</a>
 <aui:form action="${searchURL}" method="post" name="fm">
 	<liferay-util:include page="/jsp/toolbar.jsp" servletContext="<%= application %>" />
 </aui:form>
